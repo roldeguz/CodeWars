@@ -1,2 +1,2 @@
-# FreeCodeCamp
-FreeCodeCamp solutions
+# CodeWars
+CodeWars solutions
