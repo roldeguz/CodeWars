@@ -3,7 +3,7 @@ Beginner Series #3 Sum of Numbers
 11-Jul-2019
 */
 
-function GetSum( a,b )
+function getSum( a,b )
 {
    if (a == b) {
      return a;
