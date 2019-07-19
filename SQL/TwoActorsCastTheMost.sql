@@ -1,3 +1,8 @@
+/*
+Challenge: Two actors who cast together the most
+19-Jul-2019
+*/
+
 WITH pairings AS (
   SELECT   fa1.actor_id AS a1, fa2.actor_id AS a2
   FROM     film_actor fa1 
